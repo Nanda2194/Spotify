@@ -68,22 +68,6 @@ The project consists of three main files:
 
 ---
 
-## Folder Structure 🗂️
-
-```
-ProjectItems/
-├── Spotify Clone/
-│   ├── songs/        # Audio files
-│   ├── covers/       # Song cover images
-│   ├── bg.jpg        # Background image
-│   ├── logo.png      # Spotify logo
-│   ├── playing.gif   # Animation for song playing
-├── spotify.html      # HTML file
-├── spotify.css       # CSS file
-├── spotify1.js       # JavaScript file
-```
-
----
 
 ## Future Improvements 📝
 
